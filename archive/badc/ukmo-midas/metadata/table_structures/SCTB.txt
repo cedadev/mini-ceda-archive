@@ -1,0 +1,13 @@
+ ID                      
+ ID_TYPE                 
+ MET_DOMAIN_NAME         
+ SRC_CAP_BGN_DATE        
+ SRC_ID                  
+ REC_ST_IND              
+ PRIME_CAPABILITY_FLAG   
+ SRC_CAP_END_DATE        
+ FIRST_ONLINE_OB_YR      
+ DB_SEGMENT_NAME         
+ RCPT_METHOD_NAME        
+ DATA_RETENTION_PERIOD   
+ COMM_MTHD_ID            

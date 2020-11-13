@@ -1,0 +1,157 @@
+CARN,COUNTY          ,CAERNARFONSHIRE                                                         ,      1001,Required by CARLOS      ,2002-01-29
+CMBL,COUNTY          ,CUMBERLAND                                                              ,      1001,Required by CARLOS      ,2002-01-29
+FORF,COUNTY          ,FORFARSHIRE                                                             ,      1001,Required by CARLOS      ,2002-01-29
+GLAM,COUNTY          ,GLAMORGANSHIRE                                                          ,      1001,Required by CARLOS      ,2002-01-29
+LANK,COUNTY          ,LANARKSHIRE                                                             ,      1001,Required by CARLOS      ,2002-01-29
+MER ,COUNTY          ,MERIONETHSHIRE                                                          ,      1001,Required by CARLOS      ,2002-01-29
+MDDX,COUNTY          ,MIDDLESEX                                                               ,      1001,Required by CARLOS      ,2002-01-29
+PER ,COUNTY          ,PERTHSHIRE                                                              ,      1001,Required by CARLOS      ,2002-01-29
+RADN,COUNTY          ,RADNORSHIRE                                                             ,      1001,Required by CARLOS      ,2002-01-29
+WSUF,COUNTY          ,WEST SUFFOLK                                                            ,      1001,Required by CARLOS      ,2002-01-29
+WMLD,COUNTY          ,WESTMORLAND                                                             ,      1001,Required by CARLOS      ,2002-01-29
+YKS ,COUNTY          ,YORKSHIRE                                                               ,      1001,Required by CARLOS      ,2002-01-29
+SSX ,COUNTY          ,SUSSEX                                                                  ,      1001,Required by CARLOS      ,2002-01-29
+HUNT,COUNTY          ,HUNTINGDONSHIRE                                                         ,      1001,Required by CARLOS      ,2002-01-29
+MONT,COUNTY          ,MONTGOMERYSHIRE                                                         ,      1001,Required by CARLOS      ,2002-01-29
+ARGL,COUNTY          ,ARGYLLSHIRE                                                             ,      1001,Required by CARLOS      ,2002-01-29
+CARD,COUNTY          ,CARDIGANSHIRE                                                           ,      1001,Required by CARLOS      ,2002-01-29
+CARM,COUNTY          ,CARMARTHENSHIRE                                                         ,      1001,Required by CARLOS      ,2002-01-18
+DEN ,COUNTY          ,DENBIGHSHIRE                                                            ,      1001,Required by CARLOS      ,2002-01-18
+FLI ,COUNTY          ,FLINTSHIRE                                                              ,      1001,Required by CARLOS      ,2002-01-18
+HER ,COUNTY          ,HEREFORD                                                                ,      1001,Required by CARLOS      ,2002-01-18
+IOA ,COUNTY          ,ISLE OF ANGLESEY                                                        ,      1001,Required by CARLOS      ,2002-01-18
+MIDL,COUNTY          ,MIDLOTHIAN                                                              ,      1001,Required by CARLOS      ,2002-01-18
+MON ,COUNTY          ,MONMOUTHSHIRE                                                           ,      1001,Required by CARLOS      ,2002-01-18
+MRY ,COUNTY          ,MORAY                                                                   ,      1001,Required by CARLOS      ,2002-01-18
+PEM ,COUNTY          ,PEMBROKESHIRE                                                           ,      1001,Required by CARLOS      ,2002-01-18
+RUT ,COUNTY          ,RUTLAND                                                                 ,      1001,Required by CARLOS      ,2002-01-18
+STI ,COUNTY          ,STIRLING                                                                ,      1001,Required by CARLOS      ,2002-01-18
+WLO ,COUNTY          ,WEST LOTHIAN                                                            ,      1001,Required by CARLOS      ,2002-01-18
+WORC,COUNTY          ,WORCESTERSHIRE                                                          ,      1001,Required by CARLOS      ,2002-01-18
+BREC,COUNTY          ,BRECKNOCKSHIRE                                                          ,      1001,Required by CARLOS      ,2002-01-29
+FIFE,COUNTY          ,FIFE                                                                    ,      1001,ALSO A SCOTTISH REGION  ,1995-05-10
+TYRN,COUNTY          ,TYRONE                                                                  ,      1001,                        ,1995-05-10
+WAR ,COUNTY          ,WARWICKSHIRE                                                            ,      1001,                        ,1995-05-10
+WAT ,COUNTY          ,WATERFORD                                                               ,      1001,                        ,1995-05-10
+WGLA,COUNTY          ,WEST GLAMORGAN                                                          ,      1001,                        ,1995-05-10
+WMID,COUNTY          ,WEST MIDLANDS                                                           ,      1001,                        ,1995-05-10
+SSXW,COUNTY          ,WEST SUSSEX                                                             ,      1001,                        ,1995-05-10
+WYKS,COUNTY          ,WEST YORKSHIRE                                                          ,      1001,                        ,1995-05-10
+WMTH,COUNTY          ,WESTMEATH                                                               ,      1001,                        ,1995-05-10
+WEXF,COUNTY          ,WEXFORD                                                                 ,      1001,                        ,1995-05-10
+WKLW,COUNTY          ,WICKLOW                                                                 ,      1001,                        ,1995-05-10
+WIL ,COUNTY          ,WILTSHIRE                                                               ,      1001,                        ,1995-05-10
+CERD,COUNTY          ,CEREDIGION                                                              ,      1001,Required by CARLOS      ,2013-12-03
+ABDN,COUNTY          ,ABERDEENSHIRE                                                           ,      1001,                        ,1996-09-02
+BANF,COUNTY          ,BANFFSHIRE                                                              ,      1001,                        ,1996-09-02
+ARGH,COUNTY          ,ARGYLL (IN HIGHLAND REGION)                                             ,      1001,                        ,1996-09-02
+MRYH,COUNTY          ,MORAY (IN HIGHLAND REGION)                                              ,      1001,                        ,1996-09-02
+NARN,COUNTY          ,NAIRNSHIRE                                                              ,      1001,                        ,1996-09-02
+INVN,COUNTY          ,INVERNESS-SHIRE                                                         ,      1001,                        ,1996-09-02
+R&C ,COUNTY          ,ROSS & CROMARTY                                                         ,      1001,                        ,1996-09-02
+SUTH,COUNTY          ,SUTHERLAND                                                              ,      1001,                        ,1996-09-02
+CAIT,COUNTY          ,CAITHNESS                                                               ,      1001,                        ,1996-09-02
+POWN,COUNTY          ,POWYS (NORTH)                                                           ,      1001,                        ,1996-09-02
+POWS,COUNTY          ,POWYS (SOUTH)                                                           ,      1001,                        ,1996-09-02
+ANTR,COUNTY          ,ANTRIM                                                                  ,      1001,                        ,1995-05-10
+ARMG,COUNTY          ,ARMAGH                                                                  ,      1001,                        ,1995-05-10
+AVON,COUNTY          ,AVON                                                                    ,      1001,                        ,1995-05-10
+BDF ,COUNTY          ,BEDFORDSHIRE                                                            ,      1001,                        ,1995-05-10
+BRK ,COUNTY          ,BERKSHIRE                                                               ,      1001,                        ,1995-05-10
+BKM ,COUNTY          ,BUCKINGHAMSHIRE                                                         ,      1001,                        ,1995-05-10
+CAM ,COUNTY          ,CAMBRIDGESHIRE                                                          ,      1001,                        ,1995-05-10
+CARL,COUNTY          ,CARLOW                                                                  ,      1001,                        ,1995-05-10
+CAV ,COUNTY          ,CAVAN                                                                   ,      1001,                        ,1995-05-10
+CHS ,COUNTY          ,CHESHIRE                                                                ,      1001,                        ,1995-05-10
+CLAR,COUNTY          ,CLARE                                                                   ,      1001,                        ,1995-05-10
+CLEV,COUNTY          ,CLEVELAND                                                               ,      1001,                        ,1995-05-10
+CLWD,COUNTY          ,CLWYD                                                                   ,      1001,                        ,1995-05-10
+CORK,COUNTY          ,CORK                                                                    ,      1001,                        ,1995-05-10
+COR ,COUNTY          ,CORNWALL                                                                ,      1001,                        ,1995-05-10
+CUM ,COUNTY          ,CUMBRIA                                                                 ,      1001,                        ,1995-05-10
+DBY ,COUNTY          ,DERBYSHIRE                                                              ,      1001,                        ,1995-05-10
+DEV ,COUNTY          ,DEVON                                                                   ,      1001,                        ,1995-05-10
+DNGL,COUNTY          ,DONEGAL                                                                 ,      1001,                        ,1995-05-10
+DOR ,COUNTY          ,DORSET                                                                  ,      1001,                        ,1995-05-10
+DOWN,COUNTY          ,DOWN                                                                    ,      1001,                        ,1995-05-10
+DUB ,COUNTY          ,DUBLIN                                                                  ,      1001,                        ,1995-05-10
+DUR ,COUNTY          ,DURHAM                                                                  ,      1001,                        ,1995-05-10
+DYFD,COUNTY          ,DYFED                                                                   ,      1001,                        ,1995-05-10
+SSXE,COUNTY          ,EAST SUSSEX                                                             ,      1001,                        ,1995-05-10
+ESS ,COUNTY          ,ESSEX                                                                   ,      1001,                        ,1995-05-10
+FERM,COUNTY          ,FERMANAGH                                                               ,      1001,                        ,1995-05-10
+GLWY,COUNTY          ,GALWAY                                                                  ,      1001,                        ,1995-05-10
+GLS ,COUNTY          ,GLOUCESTERSHIRE                                                         ,      1001,                        ,1995-05-10
+GLN ,COUNTY          ,GREATER LONDON                                                          ,      1001,                        ,1995-05-10
+GMR ,COUNTY          ,GREATER MANCHESTER                                                      ,      1001,                        ,1995-05-10
+GWNT,COUNTY          ,GWENT                                                                   ,      1001,                        ,1995-05-10
+GWND,COUNTY          ,GWYNEDD                                                                 ,      1001,                        ,1995-05-10
+HAM ,COUNTY          ,HAMPSHIRE                                                               ,      1001,                        ,1995-05-10
+H&W ,COUNTY          ,HEREFORD & WORCESTER                                                    ,      1001,                        ,1995-05-10
+HRT ,COUNTY          ,HERTFORDSHIRE                                                           ,      1001,                        ,1995-05-10
+HUM ,COUNTY          ,HUMBERSIDE                                                              ,      1001,                        ,1995-05-10
+IOW ,COUNTY          ,ISLE OF WIGHT                                                           ,      1001,                        ,1995-05-10
+KEN ,COUNTY          ,KENT                                                                    ,      1001,                        ,1995-05-10
+KRRY,COUNTY          ,KERRY                                                                   ,      1001,                        ,1995-05-10
+KLDR,COUNTY          ,KILDARE                                                                 ,      1001,                        ,1995-05-10
+KILK,COUNTY          ,KILKENNY                                                                ,      1001,                        ,1995-05-10
+LAN ,COUNTY          ,LANCASHIRE                                                              ,      1001,                        ,1995-05-10
+LAOI,COUNTY          ,LAOIS                                                                   ,      1001,                        ,1995-05-10
+LEI ,COUNTY          ,LEICESTERSHIRE                                                          ,      1001,                        ,1995-05-10
+LEIT,COUNTY          ,LEITRIM                                                                 ,      1001,                        ,1995-05-10
+LIMK,COUNTY          ,LIMERICK                                                                ,      1001,                        ,1995-05-10
+LIN ,COUNTY          ,LINCOLNSHIRE                                                            ,      1001,                        ,1995-05-10
+LDRY,COUNTY          ,LONDONDERRY                                                             ,      1001,                        ,1995-05-10
+LNGF,COUNTY          ,LONGFORD                                                                ,      1001,                        ,1995-05-10
+LOUT,COUNTY          ,LOUTH                                                                   ,      1001,                        ,1995-05-10
+MAYO,COUNTY          ,MAYO                                                                    ,      1001,                        ,1995-05-10
+MTH ,COUNTY          ,MEATH                                                                   ,      1001,                        ,1995-05-10
+MSY ,COUNTY          ,MERSEYSIDE                                                              ,      1001,                        ,1995-05-10
+MGLA,COUNTY          ,MID GLAMORGAN                                                           ,      1001,                        ,1995-05-10
+MNGN,COUNTY          ,MONAGHAN                                                                ,      1001,                        ,1995-05-10
+NFK ,COUNTY          ,NORFOLK                                                                 ,      1001,                        ,1995-05-10
+NYKS,COUNTY          ,NORTH YORKSHIRE                                                         ,      1001,                        ,1995-05-10
+NTH ,COUNTY          ,NORTHAMPTONSHIRE                                                        ,      1001,                        ,1995-05-10
+NBL ,COUNTY          ,NORTHUMBERLAND                                                          ,      1001,                        ,1995-05-10
+NTT ,COUNTY          ,NOTTINGHAMSHIRE                                                         ,      1001,                        ,1995-05-10
+OFLY,COUNTY          ,OFFALY                                                                  ,      1001,                        ,1995-05-10
+OXF ,COUNTY          ,OXFORDSHIRE                                                             ,      1001,                        ,1995-05-10
+POWY,COUNTY          ,POWYS                                                                   ,      1001,                        ,1995-05-10
+RSCM,COUNTY          ,ROSCOMMON                                                               ,      1001,                        ,1995-05-10
+SAL ,COUNTY          ,SHROPSHIRE                                                              ,      1001,                        ,1995-05-10
+SLGO,COUNTY          ,SLIGO                                                                   ,      1001,                        ,1995-05-10
+SOM ,COUNTY          ,SOMERSET                                                                ,      1001,                        ,1995-05-10
+SGLA,COUNTY          ,SOUTH GLAMORGAN                                                         ,      1001,                        ,1995-05-10
+SYKS,COUNTY          ,SOUTH YORKSHIRE                                                         ,      1001,                        ,1995-05-10
+STS ,COUNTY          ,STAFFORDSHIRE                                                           ,      1001,                        ,1995-05-10
+SFK ,COUNTY          ,SUFFOLK                                                                 ,      1001,                        ,1995-05-10
+SRY ,COUNTY          ,SURREY                                                                  ,      1001,                        ,1995-05-10
+ANGS,COUNTY          ,ANGUS                                                                   ,      1001,                        ,1996-09-02
+MRYG,COUNTY          ,MORAY (IN GRAMPIAN REGION)                                              ,      1001,                        ,1996-09-02
+KINC,COUNTY          ,KINCARDINESHIRE                                                         ,      1001,                        ,1996-09-02
+TPRY,COUNTY          ,TIPPERARY                                                               ,      1001,                        ,1995-05-10
+T&W ,COUNTY          ,TYNE & WEAR                                                             ,      1001,                        ,1995-05-10
+DUMF,COUNTY          ,DUMFRIESSHIRE                                                           ,      1001,                        ,1996-09-02
+KIRK,COUNTY          ,KIRKCUDBRIGHTSHIRE                                                      ,      1001,                        ,1996-09-02
+WIGT,COUNTY          ,WIGTOWNSHIRE                                                            ,      1001,                        ,1996-09-02
+ARGS,COUNTY          ,ARGYLL (IN STRATHCLYDE REGION)                                          ,      1001,                        ,1996-09-02
+STRS,COUNTY          ,STIRLING (IN STRATHCLYDE REGION)                                        ,      1001,                        ,1996-09-02
+AYR ,COUNTY          ,AYRSHIRE                                                                ,      1001,                        ,1996-09-02
+LNRK,COUNTY          ,LANARKSHIRE                                                             ,      1001,                        ,1996-09-02
+BUTE,COUNTY          ,BUTESHIRE                                                               ,      1001,                        ,1996-09-02
+RENF,COUNTY          ,RENFREWSHIRE                                                            ,      1001,                        ,1996-09-02
+DUNB,COUNTY          ,DUNBARTONSHIRE                                                          ,      1001,                        ,1996-09-02
+WLOC,COUNTY          ,WEST LOTHIAN (IN CENTRAL REGION)                                        ,      1001,                        ,1996-09-02
+STRC,COUNTY          ,STIRLING (IN CENTRAL REGION)                                            ,      1001,                        ,1996-09-02
+PTHC,COUNTY          ,PERTHSHIRE (IN CENTRAL REGION)                                          ,      1001,                        ,1996-09-02
+CLAC,COUNTY          ,CLACKMANNANSHIRE                                                        ,      1001,                        ,1996-09-02
+MLOB,COUNTY          ,MIDLOTHIAN (IN BORDERS REGION)                                          ,      1001,                        ,1996-09-02
+ROXB,COUNTY          ,ROXBURGHSHIRE                                                           ,      1001,                        ,1996-09-02
+SKRK,COUNTY          ,SELKIRKSHIRE                                                            ,      1001,                        ,1996-09-02
+PEEB,COUNTY          ,PEEBLESHIRE                                                             ,      1001,                        ,1996-09-02
+BRWK,COUNTY          ,BERWICKSHIRE                                                            ,      1001,                        ,1996-09-02
+WLOT,COUNTY          ,WEST LOTHIAN (IN LOTHIAN REGION)                                        ,      1001,                        ,1996-09-02
+MLOT,COUNTY          ,MIDLOTHIAN (IN LOTHIAN REGION)                                          ,      1001,                        ,1996-09-02
+ELOT,COUNTY          ,EAST LOTHIAN                                                            ,      1001,                        ,1996-09-02
+PTHT,COUNTY          ,PERTHSHIRE (IN TAYSIDE REGION)                                          ,      1001,                        ,1996-09-02
+KNRS,COUNTY          ,KINROSS-SHIRE                                                           ,      1001,                        ,1996-09-02
