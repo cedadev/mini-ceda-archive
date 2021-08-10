@@ -26,10 +26,12 @@ import time
 
 
 datasets = {
-    "v1.0.3.0": ("/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.3.0/1km/"
-                 "snowLying/mon/v20210712/snowLying_hadukgrid_uk_1km_mon_197101-197112.nc"),
-    "v1.0.2.1": ("/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.2.1/1km/"
-                 "snowLying/mon/v20200731/snowLying_hadukgrid_uk_1km_mon_197101-197112.nc")
+  "v1.0.3.0": [
+    "/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.3.0/1km/snowLying/mon/v20210712/snowLying_hadukgrid_uk_1km_mon_197101-197112.nc"
+  ],
+  "v1.0.2.1": [
+    "/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.2.1/1km/snowLying/mon/v20200731/snowLying_hadukgrid_uk_1km_mon_197101-197112.nc"
+  ]
 }
 
 mini_archive = './archive'
@@ -66,9 +68,11 @@ def create_subset_file(fpath):
 
 def main():
 
-    for version, ncpath in datasets.items():
-        print(f'[INFO] Working on: {ncpath}')
-        create_subset_file(ncpath)
+    for version, ncpaths in datasets.items():
+
+        for fpath in ncpaths:
+            print(f'[INFO] Working on: {fpath}')
+            create_subset_file(fpath)
 
 
 if __name__ == '__main__':
