@@ -27,6 +27,7 @@ import time
 
 datasets = {
   "v1.0.3.0": [
+    "/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.3.0/1km/groundfrost/mon/v20210712/groundfrost_hadukgrid_uk_1km_mon_196101-196112.nc",
     "/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.3.0/1km/snowLying/mon/v20210712/snowLying_hadukgrid_uk_1km_mon_197101-197112.nc"
   ],
   "v1.0.2.1": [
@@ -73,6 +74,7 @@ def main():
         for fpath in ncpaths:
             print(f'[INFO] Working on: {fpath}')
             create_subset_file(fpath)
+            sfdsfd
 
 
 if __name__ == '__main__':
