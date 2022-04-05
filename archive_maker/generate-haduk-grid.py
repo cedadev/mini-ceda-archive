@@ -74,7 +74,6 @@ def main():
         for fpath in ncpaths:
             print(f'[INFO] Working on: {fpath}')
             create_subset_file(fpath)
-            sfdsfd
 
 
 if __name__ == '__main__':
