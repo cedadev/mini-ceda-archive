@@ -7,6 +7,8 @@ import time
 
 data_dir_4_04 = '/badc/cru/data/cru_ts/cru_ts_4.04/data'
 data_dir_4_05 = '/badc/cru/data/cru_ts/cru_ts_4.05/data'
+data_dir_4_06 = '/badc/cru/data/cru_ts/cru_ts_4.06/data'
+
 mini_archive = './archive'
 
 
@@ -75,7 +77,8 @@ def main():
 
     dir_var_map = {
         #data_dir_4_04: os.listdir(data_dir_4_04),
-        data_dir_4_05: ["wet"]
+        #data_dir_4_05: ["wet"]
+        data_dir_4_06: ["wet"]
     } 
 
     for dr in dir_var_map:
@@ -92,3 +95,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
